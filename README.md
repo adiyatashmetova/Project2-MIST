@@ -2,13 +2,10 @@
 Team Name:
 #JAJA
 
-Adiya Tashmetova - 811924443 - @adiyatashmetova
-
-Alexa Robles - 811344707 - @Alxaro
-
-Jackie Garcia-Torres - 811301319 - @jgarciatorres1
-
-Jessica Le - 811469318 - @Jess1ica1le
+1. Adiya Tashmetova - 811924443 - [@adiyatashmetova](https://www.github.com/adiyatashmetova)
+2. Alexa Robles - 811344707 - [@Alxaro](https://www.github.com/)
+3. Jackie Garcia-Torres - 811301319 - [@jgarciatorres1](https://www.github.com/jgarciatorres1)
+4. Jessica Le - 811469318 - [@Jess1ica1le](https://www.github.com/)
 
 Description of dataset:
 
